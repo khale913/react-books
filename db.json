@@ -1,8 +1,12 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
-      "id": 1
+      "title": "New title",
+      "id": 2
+    },
+    {
+      "title": "$100M DEALS",
+      "id": 4
     }
   ]
 }
