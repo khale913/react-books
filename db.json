@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "title": "New title",
+      "title": "Programming for Dummies",
       "id": 2
     },
     {
-      "title": "$100M DEALSss",
+      "title": "$100M DEALS",
       "id": 4
     },
     {
-      "title": "test book",
+      "title": "new book",
       "id": 5
     }
   ]
